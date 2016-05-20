@@ -1,4 +1,4 @@
 # Genetic-Algorithm-Example
 
 Author Sivarat Malapet
-Copyrights 	Sivarat Malapet 2014
+#Copyrights 	Sivarat Malapet 2014
